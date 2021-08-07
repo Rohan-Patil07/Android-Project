@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1050129853966",
+    "project_id": "libraryapp-5ec1e",
+    "storage_bucket": "libraryapp-5ec1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050129853966:android:75ce9c09c20e85011e965f",
+        "android_client_info": {
+          "package_name": "com.iiitnr.libraryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050129853966-hgpghl202ka3trsj8bc1jubr16efmode.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuhap_cCLuUgy78kfvMxpzIn5OM6V1Z6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050129853966-hgpghl202ka3trsj8bc1jubr16efmode.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
