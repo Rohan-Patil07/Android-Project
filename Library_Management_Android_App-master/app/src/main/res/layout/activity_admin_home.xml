@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:layout_margin="20dp"
     android:orientation="vertical"
-    tools:context=".AdminHome">
+    tools:context="com.rohan.libraryapp.AdminHome">
 
     <ScrollView
         android:layout_width="match_parent"

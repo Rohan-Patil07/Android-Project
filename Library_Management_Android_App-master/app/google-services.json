@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1050129853966:android:75ce9c09c20e85011e965f",
+        "mobilesdk_app_id": "1:1050129853966:android:e30a1d2c2e198c691e965f",
         "android_client_info": {
-          "package_name": "com.iiitnr.libraryapp"
+          "package_name": "com.rohan.libraryapp"
         }
       },
       "oauth_client": [
